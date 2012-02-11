@@ -65,11 +65,18 @@ sequence.each do |symbol|
   end
 end
 
+maxLength = arg1.to_s.length + 1
 
 # Вывод на экран
+puts "Input: #{arg1}"
+print "Output: "
 for m in 0..(sqrt-1)
+  if (m != 0)
+    print "        "
+  end
+  
   for n in 0..(sqrt-1)
-    print "#{matrix[n][m]}	"
+    print "#{matrix[n][m].to_s.ljust(maxLength, ' ')}"
   end
   puts
 end
