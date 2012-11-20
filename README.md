@@ -7,23 +7,23 @@
 > solution should work for any n that is a perfect square. Once you have built the matrix print
 > it, ensuring even column widths as in examples below and then exit.
 > 
->   Input:  1
->   Output: 1
+>       Input:  1
+>       Output: 1
 > 
->   Input:  4
->   Output: 4 3
->             1 2
+>       Input:  4
+>       Output: 4 3
+>                 1 2
 > 
->   Input:  9
->   Output: 5 4 3
->           6 1 2
->           7 8 9
+>       Input:  9
+>       Output: 5 4 3
+>               6 1 2
+>               7 8 9
 > 
->   Input:  16
->   Output: 16 15 14 13
->           5  4  3  12
->           6  1  2  11
->           7  8  9  10
+>       Input:  16
+>       Output: 16 15 14 13
+>               5  4  3  12
+>               6  1  2  11
+>               7  8  9  10
   
 # Output
 
