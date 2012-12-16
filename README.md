@@ -12,7 +12,7 @@
 >
 >       Input:  4
 >       Output: 4 3
->                 1 2
+>               1 2
 >
 >       Input:  9
 >       Output: 5 4 3
